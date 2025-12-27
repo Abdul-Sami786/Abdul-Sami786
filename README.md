@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am abdul sami
+🌟 Abdul Sami | Software Engineer 
+Hi there! I'm a passionate Software Engineer with a knack for building innovative solutions.
+Skilled and Motivated Engineer with a strong
+passion for learning and self-improvement.
+Skilled in Web Development,
+App Development and a knowledge of Database.
+Currently Working on SAAS Project. Something big is coming for sure...
 
 
 ## 🌐 Socials:
