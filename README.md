@@ -11,31 +11,32 @@ Currently Working on SAAS Project (Autonomous Reliability System).
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-sami-48663a378/) 
-<br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230D47A1.svg?logo=vercel&logoColor=white)](https://abdulsamiportfolio786.vercel.app/)
 
 <br>
 <br>
-# 🚀 Projects:
-###🌐 Portfolio Website
+
+# **🚀 Projects:**
+
+**🌐 Portfolio Website**
 Personal website built with Next.js and styled using custom CSS & Framer Motion.
 
-###💊 VR Doctor-Patient Interaction App
+**💊 VR Doctor-Patient Interaction App**
 VR app for doctor education using Unity 3D with interactive environment.
 
-###🏥 Hospital Management System
+**🏥 Hospital Management System**
 Comprehensive Management System for patient, doctor, and appointment tracking.
 
-###🧴 Skin Disease Detector
+**🧴 Skin Disease Detector**
 Mobile app using machine learning to detect various skin conditions.
 
-###🧟 FPP Survival Game
+**🧟 FPP Survival Game**
 Immersive first-person survival game with crafting and exploration mechanics.
 
-###📝 Advanced MERN Todo App
+**📝 Advanced MERN Todo App**
 Full-stack task management app with authentication, dark mode, and performance optimization.
 
-###🛡️ Autonomous Reliability System
+**🛡️ Autonomous Reliability System**
 Reliability analytics dashboard providing real-time system metrics, alerts, and automated health checks.
 <br>
 <br>
