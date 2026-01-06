@@ -16,27 +16,27 @@ Currently Working on SAAS Project (Autonomous Reliability System).
 <br>
 <br>
 
-# **🚀 Projects:**
+# 🚀 Projects:
 
-**🌐 Portfolio Website**
+**🌐 Portfolio Website**<br>
 Personal website built with Next.js and styled using custom CSS & Framer Motion.
 
-**💊 VR Doctor-Patient Interaction App**
+**💊 VR Doctor-Patient Interaction App**<br>
 VR app for doctor education using Unity 3D with interactive environment.
 
-**🏥 Hospital Management System**
+**🏥 Hospital Management System**<br>
 Comprehensive Management System for patient, doctor, and appointment tracking.
 
-**🧴 Skin Disease Detector**
+**🧴 Skin Disease Detector**<br>
 Mobile app using machine learning to detect various skin conditions.
 
-**🧟 FPP Survival Game**
+**🧟 FPP Survival Game**<br>
 Immersive first-person survival game with crafting and exploration mechanics.
 
-**📝 Advanced MERN Todo App**
+**📝 Advanced MERN Todo App**<br>
 Full-stack task management app with authentication, dark mode, and performance optimization.
 
-**🛡️ Autonomous Reliability System**
+**🛡️ Autonomous Reliability System**<br>
 Reliability analytics dashboard providing real-time system metrics, alerts, and automated health checks.
 <br>
 <br>
