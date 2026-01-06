@@ -1,6 +1,6 @@
 # 💫 About Me:
-### Abdul Sami
-Software Engineer | Web Developer | React Js | Tailwind | Unity | MySql | Flutter | Express Js <br>
+## Abdul Sami
+### Software Engineer | Web Developer | React Js | Tailwind | Unity | MySql | Flutter | Express Js <br>
 <br>
 A passionate Software Engineer with a knack for building innovative solutions.<br>
 Skilled and Motivated Engineer with a strong
