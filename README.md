@@ -1,10 +1,10 @@
 # 💫 About Me:
 ### Abdul Sami
 Software Engineer | Web Developer | React Js | Tailwind | Unity | MySql | Flutter | Express Js <br>
+<br>
 A passionate Software Engineer with a knack for building innovative solutions.<br>
 Skilled and Motivated Engineer with a strong
 passion for learning and self-improvement.<br>
-Skilled in Web Development, Unity, App Development and a knowledge of Database.<br>
 A big lover of Artificial Intelligence and Modern World Tech.<br>
 Currently Working on SAAS Project (Autonomous Reliability System).
 
@@ -13,7 +13,6 @@ Currently Working on SAAS Project (Autonomous Reliability System).
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-sami-48663a378/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230D47A1.svg?logo=vercel&logoColor=white)](https://abdulsamiportfolio786.vercel.app/)
 
-<br>
 <br>
 
 # 🚀 Projects:
